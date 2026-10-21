@@ -1,16 +1,16 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=160&text=Emre%20Kaçar&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Database%20Administrator%20%26%20PL/SQL%20Specialist&descSize=18&descColor=8b949e&descAlignY=68" width="100%" alt="Header" />
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emrkacar2&color=0e76a8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=185&section=header&text=Emre%20Kaçar&fontSize=42&fontColor=fff&fontAlignY=38&desc=Database%20Administrator%20%26%20PL/SQL%20Specialist&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" />
 </p>
 
+<h3 align="center">
+  <img src="https://komarev.com/ghpvc/?username=emrkacar2&color=0e76a8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</h3>
+
 <div align="center">
-  <p>⚡ <i>"Architecting high-performance data pipelines, tuning execution plans, and scaling enterprise-grade databases."</i></p>
+  <p><i>⚡ "Architecting high-performance data pipelines, tuning execution plans, and scaling enterprise-grade databases."</i></p>
 </div>
 
-<br/>
+<hr/>
 
 ### `> whoami`
 
@@ -35,3 +35,9 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('--------------------------------------------------');
 END;
 /
+
+> cat profile.env
+NAME="Emre Kaçar"
+ROLE="Database Administrator & PL/SQL Specialist"
+DEGREE="Computer Engineer"
+FOCUS=("Oracle Database" "PostgreSQL" "PL/SQL Optimization" "ETL Pipelines" "Data Architecture")
