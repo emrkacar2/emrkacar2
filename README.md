@@ -1,15 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=emrkacar2.emrkacar2" />
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=Emre%20Kaçar&fontSize=42&fontColor=fff&fontAlignY=38&desc=Oracle%20DBA%20&%20ETL%20Developer&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=200&section=header&text=Emre%20Kaçar&fontSize=42&fontColor=fff&fontAlignY=38&desc=Senior%20Oracle%20DBA%20&%20ETL%20Engineer&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" />
 </p>
 
 <h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=emrkacar2&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=emrkacar2&color=0e76a8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </h3>
 
 <div align="center">
-  <p><i>"Designing high-performance data pipelines, optimizing execution plans, and managing enterprise databases."</i></p>
+  <p><i>⚡ "Designing high-performance data pipelines, optimizing execution plans, and scaling enterprise databases."</i></p>
 </div>
 
 <hr/>
@@ -19,10 +17,12 @@
 <br/>
 
 <div align="center">
-  <!-- Özel Renkli Rozetler ile DBA ve Veri Odaklı Stack -->
+  <!-- Güçlü Veritabanı ve ETL Odaklı Rozetler -->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/PL%2FSQL-C71A36?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -34,19 +34,19 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Databases & RDBMS** | Oracle Database, MySQL, Advanced Query Optimization, Indexing, Partitioning, Stored Procedures |
-| **SQL & Scripting** | PL/SQL, T-SQL, Performance Tuning, Execution Plan Analysis |
+| **Databases & RDBMS** | Oracle Database, PostgreSQL, MySQL, Redis, Advanced Query Optimization, Indexing, Partitioning |
+| **SQL & Scripting** | PL/SQL, T-SQL, Performance Tuning, Execution Plan Analysis, Stored Procedures |
 | **ETL & Data Engineering** | Data Pipelines, Data Warehousing, Extraction-Transformation-Loading, Migration Scripts |
 | **Backend & Core** | Java (Enterprise Data Processing & Integration) |
 | **Cloud & DevOps** | Google Cloud Platform (GCP), Git, GitHub |
-| **Database Tools** | Oracle SQL Developer, PL/SQL Developer, VS Code |
+| **Database Tools** | Oracle SQL Developer, PL/SQL Developer, pgAdmin, VS Code |
 
 <hr/>
 
 <h2 align="center">📊 GitHub Stats & Metrics 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrkacar2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Emre's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emrkacar2&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Emre's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrkacar2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
