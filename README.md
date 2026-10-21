@@ -77,8 +77,8 @@ FOCUS=("Oracle Database" "PostgreSQL" "PL/SQL Optimization" "ETL Pipelines" "Dat
 ```
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
-│  "When you innovate, you have to be prepared for performance."    │
-│                                            - Database Engineering│
+│  "When you innovate, you have to be prepared for performance."   │
+│                                                  - Larry Ellison │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
