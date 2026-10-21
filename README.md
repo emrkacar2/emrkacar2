@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=200&section=header&text=Emre%20Kaçar&fontSize=42&fontColor=fff&fontAlignY=38&desc=Database%20Administrator%20(DBA)%20&%20PL/SQL%20Specialist&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=185&section=header&text=Emre%20Kaçar&fontSize=42&fontColor=fff&fontAlignY=38&desc=Database%20Administrator%20&%20PL/SQL%20Specialist&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" />
 </p>
 
 <h3 align="center">
   <img src="https://komarev.com/ghpvc/?username=emrkacar2&color=0e76a8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </h3>
-
-<h3 align="center">Computer Engineer | Enterprise Database & Data Pipeline Architect</h3>
 
 <div align="center">
   <p><i>⚡ "Architecting high-performance data pipelines, tuning execution plans, and scaling enterprise-grade databases."</i></p>
@@ -46,10 +44,6 @@
 <hr/>
 
 <h2 align="center">💻 Oracle SQL & PL/SQL Console 💻</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=00FF66&center=false&vCenter=true&width=750&height=40&duration=5000&lines=SELECT+*+FROM+EMRE_KACAR+WHERE+EXPERTISE+=+'Senior+DBA';;DBMS_OUTPUT.PUT_LINE('PL/SQL Execution Plan: OPTIMIZED 🚀');" alt="SQL Console Typing" />
-</p>
 
 ```sql
 -- =====================================================================
