@@ -17,7 +17,6 @@
 <br/>
 
 <div align="center">
-  <!-- Profesyonel DBA, RDBMS ve Veri Rozetleri -->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/PL%2FSQL-C71A36?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
