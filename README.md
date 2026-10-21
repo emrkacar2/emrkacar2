@@ -1,38 +1,39 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=emrkacar2.emrkacar2" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emre+Kaçar;+Database+Administrator+&+ETL+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emre+Kaçar;+Oracle+DBA+&+ETL+Developer;+Building+High-Performance+Data+Pipelines;" />
 </h1>
 
-<h3 align="center">Computer Engineer | Oracle & PL/SQL Specialist | Data Enthusiast</h3>
+<h3 align="center">Computer Engineer | Senior Database Administrator & Data Engineer</h3>
 
 <br/>
 
 <p align="center">
-    💼 Senior-focused approach to high-performance database management, complex ETL pipelines, and data warehousing.<br/>
-    🌱 Currently sharpening skills in: <b>Advanced Cloud Data Services, Database Performance Tuning & Modern ETL Architectures</b>
+    💼 Specializing in Oracle Database Management, PL/SQL Optimization, Complex ETL Pipelines, and Data Warehousing.<br/>
+    🌱 Currently sharpening skills in: <b>Advanced Cloud Data Services, Database Performance Tuning & Modern Data Architectures</b>
 </p>
 
 <hr/>
 
-<h2 align="center">🛠️ Tech Stack & Expertise 🛠️</h2>
+<h2 align="center">🛠️ Core Tech Stack & Expertise 🛠️</h2>
 
 <br/>
 
 <div align="center">
-    <!-- Veritabanı ve SQL/PLSQL Ağırlıklı Stack -->
-    <img src="https://skillicons.dev/icons?i=oracle,mysql,gcp,git,github,vscode,java,cs" alt="Tech Stack Icons" />
+    <!-- DBA, Veritabanı ve Java Odaklı İkonlar -->
+    <img src="https://skillicons.dev/icons?i=oracle,mysql,gcp,java,git,github,vscode" alt="Tech Stack Icons" />
 </div>
 
 <br/>
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Databases & SQL** | Oracle Database, PL/SQL, MySQL, Query & Performance Tuning, Index Optimization, Stored Procedures |
+| **Databases & RDBMS** | Oracle Database, MySQL, Advanced Query Optimization, Indexing, Partitioning, Stored Procedures |
+| **SQL & Scripting** | PL/SQL, T-SQL, Performance Tuning, Execution Plan Analysis |
 | **ETL & Data Engineering** | Data Pipelines, Data Warehousing, Extraction-Transformation-Loading, Migration Scripts |
-| **Backend & Languages** | Java, C#, Laravel, JavaScript |
-| **Cloud & DevOps** | Google Cloud Platform (GCP), Git, GitHub, Version Control |
-| **Tools & IDEs** | VS Code, Oracle SQL Developer, PL/SQL Developer, Unity |
+| **Backend & Core** | Java (Enterprise Data Processing & Integration) |
+| **Cloud & DevOps** | Google Cloud Platform (GCP), Git, GitHub |
+| **Database Tools** | Oracle SQL Developer, PL/SQL Developer, VS Code |
 
 <hr/>
 
