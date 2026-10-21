@@ -45,25 +45,30 @@
 
 <hr/>
 
-<h2 align="center">📊 GitHub Metrics & Activity 📊</h2>
+<h2 align="center">💻 Oracle SQL & PL/SQL Console 💻</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrkacar2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Emre's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrkacar2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=00FF66&center=false&vCenter=true&width=750&height=40&duration=5000&lines=SELECT+*+FROM+EMRE_KACAR+WHERE+EXPERTISE+=+'Senior+DBA';;DBMS_OUTPUT.PUT_LINE('PL/SQL Execution Plan: OPTIMIZED 🚀');" alt="SQL Console Typing" />
+</p>
 
-<br/>
+```sql
+-- =====================================================================
+-- SESSION CONNECTED TO: ORACLE ENTERPRISE DATABASE 19c/21c
+-- USER: EMRKACAR2 (COMPUTER ENGINEER & DATABASE ADMINISTRATOR)
+-- =====================================================================
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrkacar2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+SET SERVEROUTPUT ON SIZE UNLIMITED;
 
-<hr/>
-
-<h2 align="center">📫 Connect with Me 📫</h2>
-
-<div align="center">
-  <a href="https://linkedin.com/in/emre-kacarr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+DECLARE
+    v_developer_name  VARCHAR2(50) := 'Emre Kaçar';
+    v_core_title      VARCHAR2(60) := 'Database Administrator & PL/SQL Specialist';
+    v_optimization    VARCHAR2(50) := 'Execution Plan Tuning & Indexing';
+BEGIN
+    DBMS_OUTPUT.PUT_LINE('--------------------------------------------------');
+    DBMS_OUTPUT.PUT_LINE('>>> INITIALIZING PROFILE EXECUTION... SUCCESS.');
+    DBMS_OUTPUT.PUT_LINE('>>> NAME: ' || v_developer_name);
+    DBMS_OUTPUT.PUT_LINE('>>> ROLE: ' || v_core_title);
+    DBMS_OUTPUT.PUT_LINE('>>> FOCUS: ' || v_optimization);
+    DBMS_OUTPUT.PUT_LINE('--------------------------------------------------');
+END;
+/
