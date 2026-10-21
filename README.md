@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=200&section=header&text=Emre%20Kaçar&fontSize=42&fontColor=fff&fontAlignY=38&desc=Senior%20Oracle%20DBA%20&%20ETL%20Engineer&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=200&section=header&text=Emre%20Kaçar&fontSize=42&fontColor=fff&fontAlignY=38&desc=Database%20Administrator%20(DBA)%20&%20PL/SQL%20Specialist&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" />
 </p>
 
 <h3 align="center">
   <img src="https://komarev.com/ghpvc/?username=emrkacar2&color=0e76a8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </h3>
 
+<h3 align="center">Computer Engineer | Enterprise Database & Data Pipeline Architect</h3>
+
 <div align="center">
-  <p><i>⚡ "Designing high-performance data pipelines, optimizing execution plans, and scaling enterprise databases."</i></p>
+  <p><i>⚡ "Architecting high-performance data pipelines, tuning execution plans, and scaling enterprise-grade databases."</i></p>
 </div>
 
 <hr/>
@@ -17,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <!-- Güçlü Veritabanı ve ETL Odaklı Rozetler -->
+  <!-- Profesyonel DBA, RDBMS ve Veri Rozetleri -->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/PL%2FSQL-C71A36?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -61,10 +63,7 @@
 <h2 align="center">📫 Connect with Me 📫</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/emrkacar2" target="_blank">
+  <a href="https://linkedin.com/in/emre-kacarr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eposta_adresin@ornek.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
