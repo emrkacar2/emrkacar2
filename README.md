@@ -66,3 +66,17 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('--------------------------------------------------');
 END;
 /
+> cat profile.env
+NAME="Emre Kaçar"
+ROLE="Database Administrator & PL/SQL Specialist"
+DEGREE="Computer Engineer"
+FOCUS=("Oracle Database" "PostgreSQL" "PL/SQL Optimization" "ETL Pipelines" "Data Architecture")
+
+> ./connect.sh
+[INFO] Establishing secure enterprise database connection...
+[SUCCESS] Connected to EMRKACAR2 Production Cluster.
+
+┌──────────────────────────────────────────────────────────────────┐
+│  "The better your indexes, the faster your execution plans."    │
+│                                            - Database Engineering│
+└──────────────────────────────────────────────────────────────────┘
