@@ -77,7 +77,7 @@ FOCUS=("Oracle Database" "PostgreSQL" "PL/SQL Optimization" "ETL Pipelines" "Dat
 ```
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
-│  "The better your indexes, the faster your execution plans."    │
+│  "When you innovate, you have to be prepared for performance."    │
 │                                            - Database Engineering│
 └──────────────────────────────────────────────────────────────────┘
 ```
