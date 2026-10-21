@@ -45,26 +45,17 @@
 
 <hr/>
 
-<h2 align="center">🏆 GitHub Trophies & Achievements 🏆</h2>
+<h2 align="center">📊 GitHub Metrics & Activity 📊</h2>
 
 <div align="center">
-  <a href="https://github.com/emrkacar2">
-    <img src="https://github-profile-trophy.vercel.app/?username=emrkacar2&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<h2 align="center">📈 GitHub Activity & Metrics 📈</h2>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emrkacar2&theme=radical" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emrkacar2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Emre's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrkacar2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-read-activity-graph.vercel.app/graph?username=emrkacar2&theme=radical&hide_border=true&area=true&line=00f2fe&point=4facfe&background=131722" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrkacar2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <hr/>
