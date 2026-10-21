@@ -81,3 +81,25 @@ FOCUS=("Oracle Database" "PostgreSQL" "PL/SQL Optimization" "ETL Pipelines" "Dat
 │                                            - Database Engineering│
 └──────────────────────────────────────────────────────────────────┘
 ```
+
+<hr/>
+
+<h2 align="center">🌐 Connect & Socials 🌐</h2>
+
+<div align="center">
+  <a href="https://www.emrekacar.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-emrekacar.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/emre-kacarr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Emre_Kaçar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/emrkacar2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-emrkacar2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=120&section=footer" alt="Footer" />
+</p>
