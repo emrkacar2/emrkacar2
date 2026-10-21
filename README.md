@@ -1,27 +1,33 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=emrkacar2.emrkacar2" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emre+Kaçar;+Oracle+DBA+&+ETL+Developer;+Building+High-Performance+Data+Pipelines;" />
-</h1>
-
-<h3 align="center">Computer Engineer | Senior Database Administrator & Data Engineer</h3>
-
-<br/>
-
 <p align="center">
-    💼 Specializing in Oracle Database Management, PL/SQL Optimization, Complex ETL Pipelines, and Data Warehousing.<br/>
-    🌱 Currently sharpening skills in: <b>Advanced Cloud Data Services, Database Performance Tuning & Modern Data Architectures</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=Emre%20Kaçar&fontSize=42&fontColor=fff&fontAlignY=38&desc=Oracle%20DBA%20&%20ETL%20Developer&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" />
 </p>
+
+<h3 align="center">
+  <img src="https://komarev.com/ghpvc/?username=emrkacar2&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</h3>
+
+<div align="center">
+  <p><i>"Designing high-performance data pipelines, optimizing execution plans, and managing enterprise databases."</i></p>
+</div>
 
 <hr/>
 
-<h2 align="center">🛠️ Core Tech Stack & Expertise 🛠️</h2>
+<h2 align="center">🔥 Core Tech Stack & Expertise 🔥</h2>
 
 <br/>
 
 <div align="center">
-    <!-- DBA, Veritabanı ve Java Odaklı İkonlar -->
-    <img src="https://skillicons.dev/icons?i=oracle,mysql,gcp,java,git,github,vscode" alt="Tech Stack Icons" />
+  <!-- Özel Renkli Rozetler ile DBA ve Veri Odaklı Stack -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-C71A36?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 <br/>
@@ -42,6 +48,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emrkacar2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Emre's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrkacar2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrkacar2&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <hr/>
