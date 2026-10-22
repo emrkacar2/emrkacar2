@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=emrkacar2&color=0e76a8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femrkacar2&count_bg=%230E76A8&title_bg=%23555555&icon=github.svg&icon_color=%23WHITE&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
 </h3>
 
 <div align="center">
