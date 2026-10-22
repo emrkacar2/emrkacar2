@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrkacar2&show_icons=true&locale=en" alt="Profile Views" />
+  <img src="https://hits.dwyl.com/emrkacar2/emrkacar2.svg?style=for-the-badge&show=unique" alt="Profile Views" />
 </h3>
 
 <div align="center">
