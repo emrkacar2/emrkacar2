@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://profile-counter.glitch.me/emrkacar2/count.svg" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emrkacar2&show_icons=true&locale=en" alt="Profile Views" />
 </h3>
 
 <div align="center">
