@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=emrkacar2&color=0e76a8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=0e76a8&label=PROFILE%20VIEWS&query=%24.value&url=https%3A%2F%2Fapi.komarev.com%2Fghpvc%2F%3Fusername%3Demrkacar2%26format%3Djson&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
 </h3>
 
 <div align="center">
